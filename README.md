@@ -8,17 +8,13 @@
 
 ![Languages](https://raw.githubusercontent.com/pdahd/pdahd/main/metrics-languages.svg)
 
-## ⏰ Habits
+## 📅 Contribution Calendar
 
-![Habits](https://raw.githubusercontent.com/pdahd/pdahd/main/metrics-habits.svg)
+![Calendar](https://raw.githubusercontent.com/pdahd/pdahd/main/metrics-calendar.svg)
 
-## 🏆 Achievements
+## 📝 Recent Activity
 
-![Achievements](https://raw.githubusercontent.com/pdahd/pdahd/main/metrics-achievements.svg)
-
-## ⭐ Star Lists
-
-![Stars](https://raw.githubusercontent.com/pdahd/pdahd/main/metrics-stars.svg)
+![Activity](https://raw.githubusercontent.com/pdahd/pdahd/main/metrics-activity.svg)
 
 ## 🐍 Contribution Snake
 
