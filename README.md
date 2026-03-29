@@ -12,10 +12,6 @@
 
 ![Calendar](https://raw.githubusercontent.com/pdahd/pdahd/main/metrics-calendar.svg)
 
-## 📝 Recent Activity
-
-![Activity](https://raw.githubusercontent.com/pdahd/pdahd/main/metrics-activity.svg)
-
 ## 🐍 Contribution Snake
 
 <picture>
